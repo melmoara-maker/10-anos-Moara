@@ -1,0 +1,29 @@
+CONVITE MOARA — 10 ANOS
+
+Arquivos necessários:
+- index.html
+- style.css
+- script.js
+
+NO GITHUB:
+1. Entre no repositório convite-moara-10-anos.
+2. Clique em Add file > Upload files.
+3. Envie os 3 arquivos juntos.
+4. Clique em Commit changes.
+
+Importante: os três arquivos precisam ficar na RAIZ do repositório, no mesmo nível.
+
+Depois, para publicar:
+Settings > Pages > Build and deployment > Source: Deploy from a branch
+Branch: main / Folder: /(root) > Save.
+
+O convite já contém:
+- abertura interativa;
+- visual unicórnio em tons pastel;
+- data 06/12/2026;
+- horário 19h30;
+- Buffet Infantil B de Balão Festa;
+- endereço em Ribeirão Preto;
+- botão de localização Google Maps;
+- confirmação pelo WhatsApp 16 99162-0103;
+- prazo de confirmação 21/11/2026.
